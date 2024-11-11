@@ -19,3 +19,6 @@ Key Activity:
 
 Technologies Used:
 1. jmeter
+
+Output ScreenShot
+![Screenshot (24)](https://github.com/user-attachments/assets/2ee8539b-d991-4002-a21e-3ad4f3df4999)
