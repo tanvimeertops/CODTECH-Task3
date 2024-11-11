@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1730361370174,215,SauceDemoLoginPage,200,OK,Thread Group 1 1-1,text,true,,3954,244,3,16,https://www.saucedemo.com/,77,0,38
+1730361370174,77,SauceDemoLoginPage-0,301,Moved Permanently,Thread Group 1 1-1,text,true,,658,122,3,16,http://www.saucedemo.com/,77,0,38
+1730361370251,138,SauceDemoLoginPage-1,200,OK,Thread Group 1 1-1,text,true,,3296,122,3,16,https://www.saucedemo.com/,138,0,98
+1730361370281,238,SauceDemoLoginPage,200,OK,Thread Group 1 1-2,text,true,,3954,244,3,16,https://www.saucedemo.com/,96,0,49
+1730361370281,96,SauceDemoLoginPage-0,301,Moved Permanently,Thread Group 1 1-2,text,true,,658,122,3,16,http://www.saucedemo.com/,96,0,49
+1730361370377,142,SauceDemoLoginPage-1,200,OK,Thread Group 1 1-2,text,true,,3296,122,3,16,https://www.saucedemo.com/,142,0,94
+1730361370373,256,SauceDemoLoginPage,200,OK,Thread Group 1 1-3,text,true,,3954,244,3,16,https://www.saucedemo.com/,113,0,56
+1730361370373,113,SauceDemoLoginPage-0,301,Moved Permanently,Thread Group 1 1-3,text,true,,658,122,3,16,http://www.saucedemo.com/,113,0,56
+1730361370487,142,SauceDemoLoginPage-1,200,OK,Thread Group 1 1-3,text,true,,3296,122,3,16,https://www.saucedemo.com/,142,0,96
+1730361370472,230,SauceDemoLoginPage,200,OK,Thread Group 1 1-4,text,true,,3955,244,3,16,https://www.saucedemo.com/,85,0,43
+1730361370472,85,SauceDemoLoginPage-0,301,Moved Permanently,Thread Group 1 1-4,text,true,,658,122,3,16,http://www.saucedemo.com/,85,0,43
+1730361370557,145,SauceDemoLoginPage-1,200,OK,Thread Group 1 1-4,text,true,,3297,122,3,16,https://www.saucedemo.com/,145,0,96
+1730361370573,270,SauceDemoLoginPage,200,OK,Thread Group 1 1-5,text,true,,3954,244,3,17,https://www.saucedemo.com/,83,0,41
+1730361370573,83,SauceDemoLoginPage-0,301,Moved Permanently,Thread Group 1 1-5,text,true,,658,122,3,17,http://www.saucedemo.com/,83,0,41
+1730361370656,187,SauceDemoLoginPage-1,200,OK,Thread Group 1 1-5,text,true,,3296,122,3,17,https://www.saucedemo.com/,187,0,123
+1730361370674,176,SauceDemoLoginPage,200,OK,Thread Group 1 1-6,text,true,,3954,244,2,14,https://www.saucedemo.com/,69,0,33
+1730361370674,69,SauceDemoLoginPage-0,301,Moved Permanently,Thread Group 1 1-6,text,true,,658,122,2,14,http://www.saucedemo.com/,69,0,33
+1730361370743,107,SauceDemoLoginPage-1,200,OK,Thread Group 1 1-6,text,true,,3296,122,2,14,https://www.saucedemo.com/,107,0,70
+1730361370774,208,SauceDemoLoginPage,200,OK,Thread Group 1 1-7,text,true,,3954,244,3,19,https://www.saucedemo.com/,93,0,46
+1730361370774,93,SauceDemoLoginPage-0,301,Moved Permanently,Thread Group 1 1-7,text,true,,658,122,3,19,http://www.saucedemo.com/,93,0,46
+1730361370867,115,SauceDemoLoginPage-1,200,OK,Thread Group 1 1-7,text,true,,3296,122,3,19,https://www.saucedemo.com/,115,0,79
+1730361370875,243,SauceDemoLoginPage,200,OK,Thread Group 1 1-8,text,true,,3955,244,3,14,https://www.saucedemo.com/,101,0,51
+1730361370875,101,SauceDemoLoginPage-0,301,Moved Permanently,Thread Group 1 1-8,text,true,,658,122,3,14,http://www.saucedemo.com/,101,0,51
+1730361370977,141,SauceDemoLoginPage-1,200,OK,Thread Group 1 1-8,text,true,,3297,122,3,14,https://www.saucedemo.com/,141,0,92
+1730361370974,260,SauceDemoLoginPage,200,OK,Thread Group 1 1-9,text,true,,3954,244,2,13,https://www.saucedemo.com/,79,0,40
+1730361370974,79,SauceDemoLoginPage-0,301,Moved Permanently,Thread Group 1 1-9,text,true,,658,122,2,13,http://www.saucedemo.com/,79,0,40
+1730361371054,180,SauceDemoLoginPage-1,200,OK,Thread Group 1 1-9,text,true,,3296,122,2,13,https://www.saucedemo.com/,180,0,121
+1730361371074,280,SauceDemoLoginPage,200,OK,Thread Group 1 1-10,text,true,,3954,244,1,1,https://www.saucedemo.com/,110,0,56
+1730361371074,110,SauceDemoLoginPage-0,301,Moved Permanently,Thread Group 1 1-10,text,true,,658,122,1,1,http://www.saucedemo.com/,110,0,56
+1730361371185,169,SauceDemoLoginPage-1,200,OK,Thread Group 1 1-10,text,true,,3296,122,1,1,https://www.saucedemo.com/,168,0,111
